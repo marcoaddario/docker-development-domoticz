@@ -7,8 +7,8 @@ Latest Domoticz git release.
 
 ##Dockerimage
 
-[![](https://images.microbadger.com/badges/image/cgatay/domoticz.svg)](https://microbadger.com/images/cgatay/domoticz "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/cgatay/domoticz.svg)](https://microbadger.com/images/cgatay/domoticz "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/marco74/domoticz.svg)](https://microbadger.com/images/marco74/domoticz "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/marco74/domoticz.svg)](https://microbadger.com/images/marco74/domoticz "Get your own version badge on microbadger.com")
 
 ##How to use
 
